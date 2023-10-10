@@ -6,7 +6,7 @@ terraform {
   }
 }
 provider "google" {
-  project     = "terraform-learn-389307"
+  project     = "terraform-new-399715"
   region      = "us-central1"
   zone        = "us-central1-c"
 
